@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='\Users\luwil\projects\web102-project\w1-project\videoWalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='.\videoWalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 
