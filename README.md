@@ -2,7 +2,7 @@
 
 Submitted by: **William Lu**
 
-This web app: ** You should find all possible career paths for Computer Science as well as their branches.**
+This web app: **You should find all possible career paths for Computer Science as well as their branches.**
 
 Time spent: **4** hours spent in total
 
