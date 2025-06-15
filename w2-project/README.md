@@ -47,6 +47,10 @@ Here's a walkthrough of implemented required features:
 GIF created with ScreenToGif
 ## Notes
 
+To run the app:
+- npm install
+- npm run dev
+
 Challneges:
 - figuring out the animations
 
