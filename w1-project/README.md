@@ -39,8 +39,8 @@ GIF created with ScreenToGif
 
 ## Notes
 
+To run the app:
 - npm install
-then
 - npm run dev
 
 Challenges encountered:
