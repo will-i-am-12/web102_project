@@ -38,6 +38,11 @@ Here's a walkthrough of implemented required features:
 GIF created with ScreenToGif
 
 ## Notes
+
+- npm install
+then
+- npm run dev
+
 Challenges encountered:
 
 - how to begin and fomatting the container(credit to web102-prework)
