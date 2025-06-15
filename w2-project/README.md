@@ -47,7 +47,8 @@ Here's a walkthrough of implemented required features:
 GIF created with ScreenToGif
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challneges:
+- figuring out the animations
 
 ## License
 
