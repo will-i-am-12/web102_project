@@ -51,7 +51,7 @@ To run the app:
 - npm install
 - npm run dev
 
-Challneges:
+Challenges:
 - figuring out the animations
 
 ## License
