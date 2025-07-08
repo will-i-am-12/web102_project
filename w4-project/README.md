@@ -1,4 +1,4 @@
-# Web Development Project 4 - *Veni Venci!*
+# Web Development Project 4 - *Veni Vici!*
 
 Submitted by: **William Lu**
 
