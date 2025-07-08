@@ -69,7 +69,7 @@ function App() {
 
     return (
         <div className='whole-page'>
-          <h1>Veni Venci!</h1>
+          <h1>Veni Vici!</h1>
           <h3>Discover all the dogs</h3>
           {currentImage && (
             <div className='discover'>
