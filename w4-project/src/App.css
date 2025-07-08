@@ -1,0 +1,58 @@
+.whole-page{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+
+}
+
+.banned{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: fixed;
+  right:0;
+  top: 0;
+  bottom: 0;
+  width:20%;
+  background-color: grey;
+}
+.banned ul{
+  list-style: none;
+  margin-left: -10%;
+  line-height: 1.5;
+
+}
+.discover{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+
+}
+.attributes{
+  display: flex;
+  flex-direction: row;
+}
+.attributes button{
+  margin:2%;
+  
+}
+.dog-name{
+  color:antiquewhite;
+  stroke: antiquewhite;
+}
+
+.banned button{
+  border-radius: 8px;
+  border: 1px solid transparent;
+  font-size: 0.5em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin: 1%;
+}
