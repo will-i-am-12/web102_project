@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./videoWalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='C:\Users\luwil\projects\web102-project\w5-project\w5-project\videoWalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ScreenToGif
 ## Notes
