@@ -1,0 +1,102 @@
+
+/* Title */
+h1 {
+  margin-bottom: 0.3rem;
+  font-size: 2rem;
+}
+
+/* Post date */
+p em {
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+/* Post content */
+p {
+  font-size: 1.1rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+/* Image styling */
+img {
+  width: 300px;
+  border-radius: 6px;
+  margin: 1rem 0;
+}
+
+/* Upvotes */
+p:last-of-type {
+  font-weight: bold;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+/* Buttons */
+button {
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  margin: 0.3rem 0.5rem 0.3rem 0;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.2s ease;
+}
+.button-text-only {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;       /* keep font styles */
+  cursor: pointer;     /* show pointer on hover */
+}
+
+
+/* Horizontal line */
+hr {
+  margin: 2rem 0;
+  border: none;
+  border-top: 1px solid #ddd;
+}
+.comment-form {
+  display: flex;
+  gap: 0.5rem;         /* space between input and button */
+  margin-bottom: 1rem; /* some space below the form */
+
+}
+.comment-form button{
+    margin-top: -0.2rem;
+}
+
+.comment {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #ddd;
+  margin-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+
+/* Left side takes remaining space, can wrap */
+.comment-text {
+  flex: 1 1 auto;  /* grow & shrink allowed */
+  margin-right: 1rem; /* space between left and right */
+  word-break: break-word; /* allow line breaks for long text */
+}
+
+/* Right side won’t shrink */
+.comment-date {
+  flex-shrink: 0;
+  white-space: nowrap; /* keep it on one line */
+}
+
+.upvote-edit-delete{
+    display: flex;
+    justify-content: space-between;
+}
+.edit-delete{
+    margin-top: 0.5rem;
+}

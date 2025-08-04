@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+.app-layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 200px;
+  background-color: #222;
+  color: white;
+  padding: 1rem;
+}
+
+.sidebar ul {
+  list-style:none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin-bottom: 1rem;
+}
+.sidebar :first-child{
+    margin-top: 1rem;
+}
+.sidebar a {
+  display: inline-block;
+  justify-content: center;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.sidebar a:hover {
+  margin-left: 0.5rem;
+  transform: scale(1.2);
+}
+
+.content {
+  flex: 1;
+  padding: 2rem;
+  background-color: #fff;
+}
